@@ -13,5 +13,6 @@ The end achievement of the game will be to survive as most days as possible, unt
 
 **How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?**
 The desire of uprading your station and maximising your profits will hook the players into completing it, the mini-events (such as costumers needing help, robbers trying to avoid the payment...) will keep the gameplay fresh and pretty replayable.
+
 ---
 *Remember: Focus on gameplay mechanics and player experience. Save the details about story, art style, sound design, UI flowcharts, marketing plans, or achievements for later.*
