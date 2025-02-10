@@ -1,9 +1,9 @@
 # SPACE HITCHIKER STOP
 
 **Team Members:** 
-- [Alexandru Pop](https://github.com/Alexandru191919)
+- [Alexandru191919](https://github.com/Alexandru191919)
 
-- [Ignacio Arilla](https://github.com/Haster252)
+- [Haster252](https://github.com/Haster252)
 
 **How would you pitch your game in one line?**
 It's like Papers Please, but you're in space and you have a gas station, and you get robbed and space station things stuff happens. 
